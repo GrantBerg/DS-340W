@@ -1,4 +1,4 @@
-# DS340W Final Project: Music Sequence Modeling with N-Grams
+# DS340W Final Project: Chord Extraction for Symbolic Music Generation 
 
 ## Project Description
 This project analyzes musical sequences from the Wikifonia dataset using an N-gram language model. It compares the perplexity of raw note sequences versus chordified sequences (condensed into chords using `music21`).
